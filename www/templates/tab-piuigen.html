@@ -1,0 +1,20 @@
+<ion-view title="PiuiGen">
+  <ion-content class="padding">
+    <div class="list">
+      <label class="item item-input">
+        <span class="input-label">Service</span>
+        <input type="text" name="service" placeholder="Service" ng-model="pw.service"/>
+      </label>
+      <label class="item item-input">
+        <span class="input-label">Master</span>
+        <input type="password" name="master" placeholder="Master" ng-model="pw.master"/>
+      </label>
+      <label class="item item-input">
+        <span class="input-label">Password</span>
+        <input type="text" name="password" placeholder="Password" ng-model="pw.password"/>
+      </label>
+      <button class="button button-block button-positive" type="submit" ng-click="update()">Generate</button>
+      <button class="button button-block button-positive" type="submit">Copy to clipboard</button>
+    </div>
+  </ion-content>
+</ion-view>
