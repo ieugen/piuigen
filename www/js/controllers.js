@@ -1,6 +1,7 @@
-angular.module('starter.controllers', []).controller('PiuiGenCtrl', function ($scope) {
+angular.module('piuigen.module', []).controller('PiuiGenCtrl', function ($scope) {
     $scope.pw = {};
 
+    console.log('controller');
     $scope.update = function () {
         var service = $scope.pw.service;
         master = Crypto.SHA256($scope.pw.master);
