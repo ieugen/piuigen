@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="piuigen.svg"
+   inkscape:export-filename="/home/ieugen/contracte/ionic/piwigen-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3904">
+      <stop
+         id="stop3920"
+         offset="0"
+         style="stop-color:#8f8fa6;stop-opacity:0.96862745;" />
+      <stop
+         id="stop3918"
+         offset="0.15766419"
+         style="stop-color:#3c7cbd;stop-opacity:0.93725491;" />
+      <stop
+         id="stop3916"
+         offset="0.43768236"
+         style="stop-color:#4e97e0;stop-opacity:0.87450981;" />
+      <stop
+         id="stop3914"
+         offset="0.53096098"
+         style="stop-color:#5697d8;stop-opacity:0.74901962;" />
+      <stop
+         id="stop3912"
+         offset="0.79002428"
+         style="stop-color:#aaccee;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#0e4074;stop-opacity:0;"
+         offset="1"
+         id="stop3908" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3795">
+      <stop
+         id="stop3819"
+         offset="0"
+         style="stop-color:#817e7e;stop-opacity:1;" />
+      <stop
+         id="stop3817"
+         offset="0.0625"
+         style="stop-color:#beb9b9;stop-opacity:1;" />
+      <stop
+         id="stop3815"
+         offset="0.15027139"
+         style="stop-color:#747474;stop-opacity:1" />
+      <stop
+         id="stop3813"
+         offset="0.25"
+         style="stop-color:#888888;stop-opacity:0.74901961;" />
+      <stop
+         id="stop3811"
+         offset="0.5"
+         style="stop-color:#4d0d0d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#888888;stop-opacity:0;"
+         offset="1"
+         id="stop3799" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3801"
+       x1="257.52542"
+       y1="1.5254313"
+       x2="257.52542"
+       y2="510.2883"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3904"
+       id="linearGradient3910"
+       x1="258.19028"
+       y1="576.8244"
+       x2="258.19028"
+       y2="1022.6476"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="210.49315"
+     inkscape:cy="178.14123"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="84.285713"
+       y="129.50504"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="84.285713"
+         y="129.50504" /></text>
+    <path
+       style="fill:url(#linearGradient3910);fill-opacity:1"
+       d="m 80,540.36218 352,0 c 44.32,0 80,35.68 80,80 l 0,352 c 0,44.32002 -35.68,80.00002 -80,80.00002 l -352,0 c -44.32,0 -80,-35.68 -80,-80.00002 l 0,-352 c 0,-44.32 35.68,-80 80,-80 z"
+       id="rect3008" />
+    <path
+       style="fill:url(#linearGradient3801);fill-opacity:1;"
+       d="M 80 0 C 35.68 0 0 35.68 0 80 L 0 432 C 0 476.32 35.68 512 80 512 L 432 512 C 476.32 512 512 476.32 512 432 L 512 80 C 512 35.68 476.32 0 432 0 L 80 0 z M 80 31.34375 L 432 31.34375 C 459.64878 31.34375 480.65625 52.35122 480.65625 80 L 480.65625 432 C 480.65625 459.6488 459.64879 480.65625 432 480.65625 L 80 480.65625 C 52.351211 480.65625 31.34375 459.6488 31.34375 432 L 31.34375 80 C 31.34375 52.35122 52.351216 31.34375 80 31.34375 z "
+       transform="translate(0,540.36218)"
+       id="path3781" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#980101;fill-opacity:1;stroke:none;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS"
+       x="81.386513"
+       y="760.60437"
+       id="text3877"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3879"
+         x="81.386513"
+         y="760.60437"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#980101;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math Bold">Piui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#980101;fill-opacity:1;stroke:none;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS"
+       x="162.16388"
+       y="925.2019"
+       id="text3881"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3883"
+         x="162.16388"
+         y="925.2019"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#980101;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Gen</tspan></text>
+  </g>
+</svg>
